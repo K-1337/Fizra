@@ -1425,3 +1425,49 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.04-12.05.43:832][600]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.04-12.05.43:832][600]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.03.04-12.05.43:832][600]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.04-12.07.23:211][244]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-12.07.23:212][244]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-12.07.50:012][256]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.03.04-12.08.08:108][216]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-12.08.08:108][216]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.04-12.09.16:407][957]LogSlate: Window 'Select Path' being destroyed
+[2022.03.04-12.09.16:851][957]LogStaticMesh: Building static mesh Box_Brush_StaticMesh...
+[2022.03.04-12.09.16:900][957]LogStaticMesh: Built static mesh [0.05s] /Game/Box_Brush_StaticMesh.Box_Brush_StaticMesh
+[2022.03.04-12.09.16:906][957]LogActorFactory: Actor Factory created Box_Brush_StaticMesh
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush6_8' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush9' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush10' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush11' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush12' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush13' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush16' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush19' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush22' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush23' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush24' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush25' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26' is marked pending kill and cannot be converted
+[2022.03.04-12.09.16:967][957]EditorErrors: New page: Actor Reattachment
+[2022.03.04-12.09.16:974][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.04-12.09.20:318][334]Cmd: TRANSACTION UNDO
+[2022.03.04-12.09.20:318][334]LogEditorTransaction: Undo Convert Actors
+[2022.03.04-12.09.23:103][596]LogSlate: Window 'World Outliner' being destroyed
+[2022.03.04-12.09.23:106][596]LogSlate: Window 'World Outliner' being destroyed
+[2022.03.04-12.09.25:365][858]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.04-12.11.40:790][436]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.03.04-12.11.40:812][436]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
